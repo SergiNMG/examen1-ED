@@ -1,1 +1,2 @@
 Hi, I'm Alice and I'm new here.
+Second line added to Alice.txt
